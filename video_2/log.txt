@@ -1,0 +1,6 @@
+Quel est votre nom ?
+Quel est votre age ?
+Vous vous appelez Je
+Vous avez 28 ans 
+Vous etes ne en 1997
+Appuyez sur une touche pour continuer... 
